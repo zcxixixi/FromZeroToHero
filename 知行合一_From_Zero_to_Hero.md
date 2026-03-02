@@ -127,7 +127,7 @@
 
 > *"人生就像滚雪球，重要的是找到足够湿的雪和足够长的坡。"——沃伦·巴菲特*
 
-<img src="/Users/kaijimima1234/Desktop/FromZeroToHero/Gemini_Generated_Image_t2scict2scict2sc.png" alt="复利效应曲线" width="300" />
+<img src="Gemini_Generated_Image_t2scict2scict2sc.png" alt="复利效应曲线" width="300" />
 
 我曾经获得过全国电子设计竞赛国家一等奖，以及其他几项国家级别的奖项。
 
